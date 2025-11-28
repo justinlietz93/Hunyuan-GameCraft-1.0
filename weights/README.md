@@ -22,7 +22,7 @@ Hunyuan-GameCraft-1.0
 ```
 
 ## Download Hunyuan-GameCraft-1.0 model
-To download the HunyuanCustom model, first install the huggingface-cli. (Detailed instructions are available [here](https://huggingface.co/docs/huggingface_hub/guides/cli).)
+To download the Hunyuan-GameCraft-1.0 model, first install the huggingface-cli. (Detailed instructions are available [here](https://huggingface.co/docs/huggingface_hub/guides/cli).)
 
 ```shell
 python -m pip install "huggingface_hub[cli]"
